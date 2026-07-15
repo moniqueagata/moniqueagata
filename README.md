@@ -2,27 +2,28 @@
   <samp>
       Hi! I'm <b>Monique Agata</b>
   </samp><br>
-  <p><em>I from Brazil </em></p>
+  <p><em>From Brazil</em></p>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=900&color=ff4250&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+profile+:%29;I'm+a+systems+development+student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Front+%2B+Design+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pybThrOW9ibjBjOWlqZ2h5Ym5zajFlcHRueWVhZGpwdnp4cHlyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UZsSV8tWXysVEVNwrX/giphy.gif" width="120" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=23&pause=900&color=FF4250&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+profile+:%29;I'm+a+systems+development+student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Front+%2B+Design+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+<br>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=7000&color=ff4250&center=true&vCenter=true&repeat=false&width=1000&lines=About+me+.+.+.)](https://git.io/typing-svg)
 
-### ✨ About me
-  
-  <samp>
-    👩🏻‍🦱 Hi! I'm <b>Agatha</b>, a Systems Development student completely passionate about <b>Front-end</b> and <b>Design</b>. I'm 19 years old, curious by nature, and always looking to learn something new.<br>
-    - 💡 I love turning my ideas into creative interfaces and I'm building my path in the tech industry.<br>
-    - 👩🏻‍💻 I'm open to new opportunities, ideas, and projects.
-  </samp>
-</div>
+<p>
+  Hi! I'm Agatha, a Systems Development student completely passionate about <b>Front-end</b> and <b>Design</b>. I'm 19 years old, curious by nature, and always looking to learn something new.<br>
+  💡 I love turning my ideas into creative interfaces and I'm building my path in the tech industry.<br>
+  👩🏻‍💻 I'm open to new opportunities, ideas, and projects.
+</p>
 
 <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=7000&color=ff4250&center=true&vCenter=true&repeat=false&width=1000&lines=Tech+stack)](https://git.io/typing-svg)
 
 <div align="center">
   <h4>Front-end & Mobile</h4>
@@ -49,7 +50,11 @@
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moniqueagata&bg_color=00000&color=ff5757&line=b52121&point=ff5757&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moniqueagata&theme=transparent&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200&border=fc3b52&stroke=fc3b52&fire=ff8e42&ring=fc3b52&dates=aaa&sideNums=aaa&currStreakNum=aaa&sideLabels=ff5757&currStreakLabel=ff5757)](https://git.io/streak-stats)
+
+</div>
 
 <br>
 
@@ -81,5 +86,3 @@
 
 <samp>Made with ❤️ by <b>Monique Agata</b></samp>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=88&color=FF3C4C&section=footer&reversal=false"/>
