@@ -1,11 +1,11 @@
 <div align="center">
   <samp>
-      Hi! I'm <b>Monique Agata</b>
+      Hi! I'm <b>Agatha</b>
   </samp><br>
-  <p><em>From Brazil</em></p>
+  <p><em>Front-end Developer from Brazil</em></p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=900&color=ff4250&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+profile+:%29;I'm+a+systems+development+student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Front+%2B+Design+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=26&pause=900&color=ff4250&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+my+profile+:%29;I'm+a+systems+development+student+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Front+%2B+Design+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pybThrOW9ibjBjOWlqZ2h5Ym5zajFlcHRueWVhZGpwdnp4cHlyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UZsSV8tWXysVEVNwrX/giphy.gif" width="120" />
@@ -13,17 +13,20 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=7000&color=ff4250&center=true&vCenter=true&repeat=false&width=1000&lines=About+me+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=7000&color=ff4250&center=true&vCenter=true&repeat=false&width=1000&lines=About+me+.+.+.)](https://git.io/typing-svg)
 
-<p>
-  Hi! I'm Agatha, a Systems Development student completely passionate about <b>Front-end</b> and <b>Design</b>. I'm 19 years old, curious by nature, and always looking to learn something new.<br>
-  💡 I love turning my ideas into creative interfaces and I'm building my path in the tech industry.<br>
-  👩🏻‍💻 I'm open to new opportunities, ideas, and projects.
-</p>
+<div align="center">
+  Hi! I'm Monique Agata 👋<br>
+  🎓 Systems Development student<br>
+  💻 Focused on Front-end and Mobile Development<br>
+  🎨 Passionate about UI Design and user experience<br>
+  🚀 Building projects with React Native and JavaScript<br>
+  📚 Always learning and exploring new technologies
+</div>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=7000&pause=7000&color=ff4250&center=true&vCenter=true&repeat=false&width=1000&lines=Tech+stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=7000&pause=7000&color=ff4250&center=true&vCenter=true&repeat=false&width=1000&lines=Tech+stack)](https://git.io/typing-svg)
 
 <div align="center">
   <h4>Front-end & Mobile</h4>
@@ -31,15 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="40" />
-  <br>
 
   <h4>Back-end & Data</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" />
-  <br>
-
+  
   <h4>Design & Tools</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
@@ -55,6 +56,19 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moniqueagata&theme=transparent&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600&card_height=200&border=fc3b52&stroke=fc3b52&fire=ff8e42&ring=fc3b52&dates=aaa&sideNums=aaa&currStreakNum=aaa&sideLabels=ff5757&currStreakLabel=ff5757)](https://git.io/streak-stats)
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moniqueagata&show_icons=true&theme=synthwavek&hide_border=true&bg_color=00000000&title_color=fc3b52&text_color=aaa" />
+<img  height="160" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moniqueagata&layout=compact&theme=synthwavek&hide_border=true&bg_color=00000000&title_color=fc3b52&text_color=aaa" />
+
+</div>
+
+<br>
+
+<hr color="#fc3b52">
 
 <br>
 
@@ -86,3 +100,4 @@
 
 <samp>Made with ❤️ by <b>Monique Agata</b></samp>
 </div>
+
