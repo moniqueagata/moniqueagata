@@ -60,16 +60,6 @@
 <br>
 
 <div align="center">
-
-<img height="140rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moniqueagata&layout=compact&theme=synthwavek&hide_border=true&bg_color=00000000&title_color=fc3b52&text_color=aaa" />
-<img height="160rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moniqueagata&show_icons=true&theme=synthwavek&hide_border=true&bg_color=00000000&title_color=fc3b52&text_color=aaa" />
-
-</div>
-
-<br>
-<br>
-
-<div align="center">
     <samp>
       📩 Contact me:
     </samp>
